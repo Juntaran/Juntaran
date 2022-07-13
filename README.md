@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🏠 Distributed Systems and Storage Domain
-- 🌱 Devops in Baidu Cloud
+- 🌱 Cloud Storage SRE of Baidu Cloud
 - 🔭 Cloud Native and Observability
 
 ![States](https://github-readme-stats.vercel.app/api?username=Juntaran&theme=outrun)
